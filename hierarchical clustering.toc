@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction - Clustering Basics}{3}{0}{1}
+\beamer@sectionintoc {2}{Transition to Hierarchical Clustering}{17}{0}{2}
+\beamer@sectionintoc {3}{Hierarchical Clustering - Introduction}{23}{0}{3}
+\beamer@sectionintoc {4}{Types of Hierarchical Clustering}{26}{0}{4}
+\beamer@subsectionintoc {4}{1}{Agglomerative Clustering}{29}{0}{4}
+\beamer@subsectionintoc {4}{2}{Divisive Clustering}{59}{0}{4}
+\beamer@sectionintoc {5}{Linkage Criteria}{64}{0}{5}
