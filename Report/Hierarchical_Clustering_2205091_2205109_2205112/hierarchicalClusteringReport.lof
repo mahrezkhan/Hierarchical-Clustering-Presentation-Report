@@ -1,0 +1,10 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Visual representation of clustering: Similar data points are grouped together into distinct clusters. The dashed ellipses represent cluster boundaries.}}{4}{figure.caption.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Scatter plot of customer data showing Age vs. Monthly Expense. Each 'C' represents a customer. Without clustering, the data appears as an unstructured collection of points.}}{5}{figure.caption.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Three distinct customer clusters identified through clustering: Students, Families, and Premium customers.}}{6}{figure.caption.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Dendrogram}}{7}{figure.caption.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Agglomerative Clustering Example}}{8}{figure.caption.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Single Linkage Dendrogram}}{10}{figure.caption.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Complete Linkage Dendrogram}}{11}{figure.caption.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Average Linkage Dendrogram}}{12}{figure.caption.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Comparison of Single, Complete, and Average Linkage Dendrograms}}{12}{figure.caption.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Structure of a Dendrogram}}{13}{figure.caption.10}%
